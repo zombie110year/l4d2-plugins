@@ -1,0 +1,8 @@
+// linux elf binaries
+*.so filter=lfs diff=lfs merge=lfs -text
+// sourcemod plugin binaries
+*.smx filter=lfs diff=lfs merge=lfs -text
+// sqlite3 database
+*.sq3 filter=lfs diff=lfs merge=lfs -text
+// network data file
+*.mmdb filter=lfs diff=lfs merge=lfs -text

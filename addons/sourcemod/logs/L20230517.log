@@ -1,0 +1,55 @@
+L 05/17/2023 - 15:24:50: SourceMod log file session started (file "/home/hm/l4d2/left4dead2/addons/sourcemod/logs/L20230517.log") (Version "1.11.0.6934")
+L 05/17/2023 - 15:24:50: -------- Mapchange to c2m1_highway --------
+L 05/17/2023 - 15:26:12: [basecommands.smx] "dontKICKme<2><STEAM_1:1:217912033><>" changed map to "c1m2_street"
+L 05/17/2023 - 15:26:15: [SM] Changed map to "c1m2_street"
+L 05/17/2023 - 15:36:32: SourceMod log file session started (file "/home/hm/l4d2/left4dead2/addons/sourcemod/logs/L20230517.log") (Version "1.11.0.6934")
+L 05/17/2023 - 15:36:32: -------- Mapchange to c2m1_highway --------
+L 05/17/2023 - 15:37:11: [basecommands.smx] "dontKICKme<2><STEAM_1:1:217912033><>" changed map to "c1m2_streets"
+L 05/17/2023 - 15:37:15: [SM] Changed map to "c1m2_streets"
+L 05/17/2023 - 15:37:15: -------- Mapchange to c1m2_streets --------
+L 05/17/2023 - 15:38:26: -------- Mapchange to c7m1_docks --------
+L 05/17/2023 - 16:02:28: SourceMod log file session started (file "/home/hm/l4d2/left4dead2/addons/sourcemod/logs/L20230517.log") (Version "1.11.0.6934")
+L 05/17/2023 - 16:02:28: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 16:08:13: -------- Mapchange to c2m1_highway --------
+L 05/17/2023 - 16:08:14: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 16:11:12: SourceMod log file session started (file "/home/hm/l4d2/left4dead2/addons/sourcemod/logs/L20230517.log") (Version "1.11.0.6934")
+L 05/17/2023 - 16:11:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:08:05: -------- Mapchange to c2m1_highway --------
+L 05/17/2023 - 17:08:06: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:08:06: [basecommands.smx] "Console<0><Console><Console>" changed map to "c9m1_alleys"
+L 05/17/2023 - 17:08:09: [SM] Changed map to "c9m1_alleys"
+L 05/17/2023 - 17:08:10: -------- Mapchange to c9m1_alleys --------
+L 05/17/2023 - 17:08:11: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:10:04: Log file closed.
+L 05/17/2023 - 17:11:20: SourceMod log file session started (file "/home/hm/l4d2/left4dead2/addons/sourcemod/logs/L20230517.log") (Version "1.11.0.6934")
+L 05/17/2023 - 17:11:20: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:11:20: [basecommands.smx] "Console<0><Console><Console>" changed map to "c10m1_caves"
+L 05/17/2023 - 17:11:23: [SM] Changed map to "c10m1_caves"
+L 05/17/2023 - 17:11:23: -------- Mapchange to c10m1_caves --------
+L 05/17/2023 - 17:11:24: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:11:49: -------- Mapchange to c10m1_caves --------
+L 05/17/2023 - 17:11:50: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:19:43: Log file closed.
+L 05/17/2023 - 17:19:58: SourceMod log file session started (file "/home/hm/l4d2/left4dead2/addons/sourcemod/logs/L20230517.log") (Version "1.11.0.6934")
+L 05/17/2023 - 17:19:58: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:19:58: [basecommands.smx] "Console<0><Console><Console>" changed map to "c11m1_greenhouse"
+L 05/17/2023 - 17:20:01: [SM] Changed map to "c11m1_greenhouse"
+L 05/17/2023 - 17:20:01: -------- Mapchange to c11m1_greenhouse --------
+L 05/17/2023 - 17:20:02: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:21:57: -------- Mapchange to c11m1_greenhouse --------
+L 05/17/2023 - 17:21:57: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:23:29: -------- Mapchange to c11m1_greenhouse --------
+L 05/17/2023 - 17:23:30: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:24:01: Log file closed.
+L 05/17/2023 - 17:24:12: SourceMod log file session started (file "/home/hm/l4d2/left4dead2/addons/sourcemod/logs/L20230517.log") (Version "1.11.0.6934")
+L 05/17/2023 - 17:24:12: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:24:13: [basecommands.smx] "Console<0><Console><Console>" changed map to "c4m1_milltown_a"
+L 05/17/2023 - 17:24:16: [SM] Changed map to "c4m1_milltown_a"
+L 05/17/2023 - 17:24:16: -------- Mapchange to c4m1_milltown_a --------
+L 05/17/2023 - 17:24:17: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:27:03: SourceMod log file session started (file "/home/hm/l4d2/left4dead2/addons/sourcemod/logs/L20230517.log") (Version "1.11.0.6934")
+L 05/17/2023 - 17:27:03: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
+L 05/17/2023 - 17:27:03: [basecommands.smx] "Console<0><Console><Console>" changed map to "c5m1_waterfront"
+L 05/17/2023 - 17:27:06: [SM] Changed map to "c5m1_waterfront"
+L 05/17/2023 - 17:27:06: -------- Mapchange to c5m1_waterfront --------
+L 05/17/2023 - 17:27:07: [basecommands.smx] "Console<0><Console><Console>" changed cvar (cvar "sb_all_bot_game") (value "1")
