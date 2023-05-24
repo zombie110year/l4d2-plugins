@@ -7,7 +7,7 @@ metamod.vdf 中的路径是 Docker 里的路径
 ## 基本依赖
 
 + 提供游戏导演系统 Hooks [left4dhooks](https://github.com/zombie110year/Left4DHooks)
-+ 解锁人数限制
++ 解锁人数限制 [L4DToolZ](https://forums.alliedmods.net/showthread.php?t=93600)
 + 解锁 tickrate 限制
 
 ## 服务器基础类
