@@ -880,7 +880,7 @@ Action Command_SpawnItem(int client, int args) {
 	if (args < 1) {
 		ReplyToCommand(client, "Usage: a4d_spawn_item <item_type>");
 	} else {
-		char type[16];
+		char type[32];
 		GetCmdArg(1, type, sizeof(type));
 		Do_SpawnItem(client, type);
 	}
